@@ -24,7 +24,9 @@ This is AI chatbot for seafarers using Qwen 2.5
 - Gradio
 - 
  - ##Dataset
-- Maritime reference PDF documents used as the knowledge base
+- Maritime reference PDF documents used as the knowledge base.
+- Save the PDF files to the local environment
+- Change the File location in the code
 
 - ## How It Works
 
